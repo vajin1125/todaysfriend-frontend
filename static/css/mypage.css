@@ -1,0 +1,7 @@
+div.profileDiv > input, button {
+    margin-top: 10px;
+}
+
+div.addBankDiv > input {
+    margin-bottom: 10px;
+}

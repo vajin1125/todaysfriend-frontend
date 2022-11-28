@@ -1,0 +1,4 @@
+div.productImage {
+    background: url('../image/product_summary_image.jpg') no-repeat center;
+    background-size: cover;
+}

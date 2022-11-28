@@ -1,0 +1,12 @@
+Form.modifyProfileForm span {
+    font-size: 0.8em;
+}
+
+button.completedProfileBtn > span {
+    font-size: 2em;
+}
+
+.profileheader p {
+    margin: 0;
+    padding:0;
+}

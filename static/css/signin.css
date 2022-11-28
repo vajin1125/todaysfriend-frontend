@@ -1,0 +1,31 @@
+button.kep-login-facebook {
+    width: 100%;
+    margin-bottom: 20px;
+    /* background-color: #fff; */
+    /* color: #1890ff; */
+    font-size: 16px;
+    font-weight: 100;
+    /* border: 1px solid #1890ff; */
+    border-radius: 5px;
+}
+button.btn-googleLogin {
+    width: 100%;
+    margin-bottom: 20px;
+    color: #1890ff;
+    /* border: 1px solid #1890ff!important; */
+    border-radius: 5px!important;
+    box-shadow: none!important;
+    background-color: #CB4D4D!important;
+}
+button.btn-googleLogin > span {
+    margin-left: 100px;
+    color: #fff;
+    font-size: 16px;
+}
+
+button.btn-kakaoLogin {
+    width: 100%!important;
+    margin-bottom: 20px;
+    /* border: 1px solid #1890ff!important; */
+    border-radius: 5px!important;
+}

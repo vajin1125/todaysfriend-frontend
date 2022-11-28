@@ -1,0 +1,16 @@
+div.myPickerHide {
+    display: none;
+}
+div.myPickerShow {
+    display: block;
+}
+div.DayPicker {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 3px 3px #ddd;
+    /* z-index: 999999999; */
+}
+div.DayPicker-Day--selected {
+    padding: 5px;
+    border-radius: 10px;
+}

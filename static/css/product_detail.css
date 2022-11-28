@@ -1,0 +1,29 @@
+.cerria1 > p,
+.cerria2 > p {
+    margin:0;
+    padding:0;
+    font-size: 13px;
+}
+
+.cerria2 > p {
+    margin-left: 10px;
+}
+.bookingButton {
+    border-radius: 10px;
+}
+
+div.image-gallery-slides {
+    border-radius: 10px;
+}
+
+div.detailPdu h2 {
+    color: #0498c7;
+}
+
+div.detailPdu p {
+    font-size: 15px;
+}
+
+.image-gallery-slide img {
+    height: 500px;
+}
